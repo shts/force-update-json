@@ -1,0 +1,11 @@
+{
+    "jp.bpsinc.alice": {
+      "minVersionCode": 0
+    },
+    "com.peaceteclab.alice": {
+      "minVersionName": "3.21.0"
+    },
+    "com.peaceteclab.alice.development": {
+      "minVersionName": "3.30.1"
+    }
+}
